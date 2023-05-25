@@ -2,4 +2,4 @@ User-agent: *
 Allow: /*
 Allow: /termsofservice
 Allow: /privacypolicy
-Sitemap: https://thintry.com/sitemap.xml
+Sitemap: https://hapmedia.thintry.com/sitemap.xml
